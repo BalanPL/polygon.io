@@ -13,16 +13,16 @@
 ## _Option Downloader_
 - spx is considered for example_
 
-1. use spx-active-downloader.py to download the data and use the csv files  for spx_contract_downloader.py
-2. use the spx_contract_downloader.py json file as a input for spx-option-downloader.py 
-3. later we get the historical data
+1. use spx_2018_downloader.py file to formt spx_active_downloader.py
+2. after need to format spx_active_contract_downloader.py
+3. covert the datas into call,put and change the format as options
 
-# _Expired Downloader_
+## _Expired Downloader_
 
-1. use spx-active-downloader.py to download the data and use the csv files  for spx_contract_downloader.py
-2. use the spx_contract_downloader.py json file as a input for spx-Expired-downloader.py 
-3. later we get the historical data
-
+1. use spx_2018_downloader.py file to formt spx_active_downloader.py
+2. after need to format spx_active_expired_downloader.py
+3. covert the datas into call,put and change the format as options
+   
 ## Stocks
 
 1. Need to extract the datas for symbols in slickchart using polygon.io
