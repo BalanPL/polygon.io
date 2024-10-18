@@ -14,14 +14,14 @@
 - spx is considered for example_
 
 1. use spx-active-downloader.py to download the data and use the csv files  for spx_contract_downloader.py
-2.use the spx_contract_downloader.py json file as a input for spx-option-downloader.py 
-3.later we get the historical data
+2. use the spx_contract_downloader.py json file as a input for spx-option-downloader.py 
+3. later we get the historical data
 
 # _Expired Downloader_
 
 1. use spx-active-downloader.py to download the data and use the csv files  for spx_contract_downloader.py
-2.use the spx_contract_downloader.py json file as a input for spx-Expired-downloader.py 
-3.later we get the historical data
+2. use the spx_contract_downloader.py json file as a input for spx-Expired-downloader.py 
+3. later we get the historical data
 
 ## Stocks
 
